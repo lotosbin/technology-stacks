@@ -13,3 +13,8 @@ node example.parse.js
 http-server
 open ./examples/index.html
 ```
+* 打包
+```
+docker-compose build
+```
+* 部署
