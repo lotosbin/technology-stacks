@@ -2,10 +2,12 @@
 ![](README.png)
 # 目的:整理技术栈，方便查看
 # 方法:统一技术栈格式，多种可视化展示，灵活的筛选查看
-# 协作:
+# [协作](./CONTRIBUTE.md)
 # 工具:
 ## Markdown(https://guides.github.com/features/mastering-markdown/)
 ## Mindmap
+## markmap:Visualize markdown documents as mindmaps
+(https://www.npmjs.com/package/markmap)
 ## markdown to Mindmap
 ## editor:atom/sublime ..
 ### atom以及插件(atom.io)
