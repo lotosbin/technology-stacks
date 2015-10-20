@@ -48,3 +48,4 @@ Components 组件
 # 天使汇(http://z42.readthedocs.org/zh/latest/skillstack/)(https://github.com/AngelCrunchDev/z42-doc)
 # 爆栈(https://github.com/unruledboy/WebFrontEndStack/blob/master/README.zh-cn.md)
 # IoT(http://i25zt5.lawrence-gd.diancloud.cn/iot-thing-stack/)
+# 一位多年老前端的工具集合(http://mobile.51cto.com/web-493713.htm)
